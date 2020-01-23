@@ -1,5 +1,5 @@
 ﻿#SingleInstance force
-#Space:: Winset, AlwaysOnTop, Toggle, A
+#Enter:: Winset, AlwaysOnTop, Toggle, A
 #!1:: Winset, Transparent, 200, A
 #!2:: Winset, Transparent, 150, A
 #!3:: Winset, Transparent, 100, A
